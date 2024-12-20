@@ -1,0 +1,27 @@
+{
+    "name": "dmiska1/my-demo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dmiska1\\MyDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Miska",
+            "email": "dmiska@schueler.hakzell.at"
+        }
+    ],
+    "repositories":
+    [
+        {
+            "type": "git",
+            "url": "git@github.com:dmiska1/uebungEinbinden.git"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "dmiska1/uebung-einbinden": "v1.0.0"
+    }
+}
