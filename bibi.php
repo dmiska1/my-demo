@@ -2,8 +2,11 @@
 
 class bibi
 {
-    public function bibi()
+    public $Name = "Bibi";
+    public $Spricht = "Die Kekse sind fertig";
+
+    function gesprochen($Name, $Spricht)
     {
-        echo "Hallo Arian die Kecks sand fertig";
+        $Name . " sagt:" . $Spricht;
     }
 }

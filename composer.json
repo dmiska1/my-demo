@@ -13,11 +13,9 @@
             "email": "dmiska@schueler.hakzell.at"
         }
     ],
-    "repositories":
-    [
+    "repositories": [
         {
-            "type": "git",
-            "url": "git@github.com:dmiska1/uebungEinbinden.git"
+            "type": "vcs",        "url": "https://github.com/ANlackner/my-demo02.git"
         }
     ],
     "minimum-stability": "dev",
