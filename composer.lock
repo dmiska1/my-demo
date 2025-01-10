@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "954a6e6fe7ca56835c5e955ed2ea4f57",
+    "content-hash": "0390c2cbb1ca58e0325631a316e56187",
     "packages": [
         {
             "name": "cocur/slugify",
@@ -107,6 +107,31 @@
                 }
             ],
             "time": "2024-12-20T07:40:57+00:00"
+        },
+        {
+            "name": "willnisbet/santawill",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/willnisbet/SantaWill.git",
+                "reference": "92fac1f4c04999f7cda00a3419e3198a16fff905"
+            },
+            "type": "project",
+            "autoload": {
+                "psr-4": {
+                    "Willnisbet\\Santawill\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "William Nisbet",
+                    "email": "wnisbet@schueler.hakzell.at"
+                }
+            ],
+            "time": "2024-12-20T08:02:15+00:00"
         }
     ],
     "packages-dev": [],

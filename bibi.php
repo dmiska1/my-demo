@@ -1,6 +1,6 @@
 <?php
 
-class bibi
+class Bibi
 {
     public $Name = "Bibi";
     public $Spricht = "Die Kekse sind fertig";

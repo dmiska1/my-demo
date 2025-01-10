@@ -15,11 +15,12 @@
     ],
     "repositories": [
         {
-            "type": "vcs",        "url": "https://github.com/ANlackner/my-demo02.git"
+            "type": "git",        "url": "https://github.com/willnisbet/SantaWill.git"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "dmiska1/uebung-einbinden": "v1.0.0"
+        "dmiska1/uebung-einbinden": "v1.0.0",
+        "willnisbet/santawill": "v1.0.0"
     }
 }
